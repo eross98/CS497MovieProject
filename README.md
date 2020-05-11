@@ -1,5 +1,5 @@
 # CS497MovieProject
-Final Code for CS497
+Final Code for CS497 for Evan Ross
 
 In the code.ipynb is the code for the program. 
 
